@@ -1,0 +1,13 @@
+body { font-family: system-ui, sans-serif; background: #eef4fb;
+  margin: 0; min-height: 100vh; display: grid; place-items: center; padding: 24px; box-sizing: border-box; }
+.card { background: white; padding: 40px; border-radius: 18px; max-width: 640px; width: 100%;
+  box-shadow: 0 12px 32px #1e3a5f20; text-align: center; }
+button { background: #e8590c; color: white; border: 0;
+  padding: 12px 22px; border-radius: 8px; cursor: pointer; margin: 4px; }
+section { margin-top: 28px; text-align: left; }
+section h2 { border-bottom: 2px solid #e8590c; padding-bottom: 4px; }
+
+/* Dark theme */
+body.dark { background: #14202e; }
+body.dark .card { background: #1f2f42; color: #eef4fb; }
+body.dark a { color: #8ec5ff; }

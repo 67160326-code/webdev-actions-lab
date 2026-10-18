@@ -20,7 +20,7 @@ body {
 }
 
 button {
-  background: #e8590c;
+  background: #2f9e44;
   color: white;
   border: 0;
   padding: 12px 22px;
@@ -35,7 +35,7 @@ section {
 }
 
 section h2 {
-  border-bottom: 2px solid #2f9e44;
+  border-bottom: 2px solid #e8590c;
   padding-bottom: 4px;
 }
 
